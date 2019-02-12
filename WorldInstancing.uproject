@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1BDA86A9-2006-121E-003B-016D72F5E0E6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WorldInstancing",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
